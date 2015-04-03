@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>typeof ${1:varName} != 'undefined' ${2}</string>
+	<key>name</key>
+	<string>JS isset</string>
+	<key>scope</key>
+	<string>source.js</string>
+	<key>tabTrigger</key>
+	<string>isset</string>
+	<key>uuid</key>
+	<string>34D702A9-080E-4548-845B-B46EF3CCFF4C</string>
+</dict>
+</plist>

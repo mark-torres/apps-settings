@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$${1} = trim(\$$1);$0</string>
+	<key>name</key>
+	<string>trim variable</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>trim</string>
+	<key>uuid</key>
+	<string>B1589A0E-161D-4AA9-B9AA-08B8FA75A413</string>
+</dict>
+</plist>

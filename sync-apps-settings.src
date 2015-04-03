@@ -1,0 +1,2 @@
+# Sync TextMate2 bundles
+rsync -rtv ~/Library/Application\ Support/Avian/Bundles/ ~/Git/apps-settings/textmate2/Bundles/
