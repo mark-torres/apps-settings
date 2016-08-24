@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>getrowsunion(${1:table}, ${2:fields}, ${3:wheres});$0</string>
+	<key>name</key>
+	<string>Get rows (union)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>getrowsunion</string>
+	<key>uuid</key>
+	<string>5D8D3197-29C0-4829-B40C-5E829D02D6FD</string>
+</dict>
+</plist>

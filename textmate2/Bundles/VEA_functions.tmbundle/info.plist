@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>znex.gbeerf.zrgf@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Mark Torres</string>
+	<key>description</key>
+	<string>PHP functions used in VEA scripts.</string>
+	<key>name</key>
+	<string>VEA functions</string>
+	<key>uuid</key>
+	<string>F4A50F27-29A8-44E0-B99A-4E07D664A84F</string>
+</dict>
+</plist>

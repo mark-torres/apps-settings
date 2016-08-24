@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>getrowsassoc(${1:table}, ${2:key_field}, ${3:fields}, ${4:conditions});$0</string>
+	<key>name</key>
+	<string>Get rows (assoc)</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>getrowsassoc</string>
+	<key>uuid</key>
+	<string>38BB5D96-04D8-4B82-B13D-FD9AC5A6161D</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>restorerow(${1:tablename}, ${2:rowid});$0</string>
+	<key>name</key>
+	<string>Restore row</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>restorerow</string>
+	<key>uuid</key>
+	<string>9A646111-BDFE-439D-A1FC-C1A6BDEBAFCA</string>
+</dict>
+</plist>
