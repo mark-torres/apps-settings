@@ -8,7 +8,7 @@ ${1}
 echo "\n*/\n";
 ${0}</string>
 	<key>name</key>
-	<string>Echo in JS comment</string>
+	<string>PHP: Echo in JS comment</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

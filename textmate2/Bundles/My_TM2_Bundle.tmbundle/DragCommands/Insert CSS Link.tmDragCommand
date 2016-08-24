@@ -9,6 +9,8 @@
 [[ -f "${TM_SUPPORT_PATH}/lib/bash_init.sh" ]] &amp;&amp; . "${TM_SUPPORT_PATH}/lib/bash_init.sh"
 
 echo "&lt;link rel=\"stylesheet\" href=\"$TM_DROPPED_FILE\" type=\"text/css\" media=\"screen\" charset=\"utf-8\"$TM_XHTML&gt;"</string>
+		<key>name</key>
+		<string>HTML: Insert CSS Link</string>
 	</dict>
 	<key>isDelta</key>
 	<true/>

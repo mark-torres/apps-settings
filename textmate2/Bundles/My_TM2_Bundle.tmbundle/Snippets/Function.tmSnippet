@@ -8,6 +8,8 @@
 		<string>function ${1:function_name}(${2:argument}) {
 	${0:// body...}
 } // - - - - - - end of function ${1} - - - - - -</string>
+		<key>isDeleted</key>
+		<true/>
 	</dict>
 	<key>isDelta</key>
 	<true/>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>typeof ${1:varName} != 'undefined' ${2}</string>
 	<key>name</key>
-	<string>JS isset</string>
+	<string>JS: isset</string>
 	<key>scope</key>
 	<string>source.js</string>
 	<key>tabTrigger</key>

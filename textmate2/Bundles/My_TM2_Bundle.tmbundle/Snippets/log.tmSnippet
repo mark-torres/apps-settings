@@ -6,6 +6,8 @@
 	<dict>
 		<key>content</key>
 		<string>if(typeof console != 'undefined') console.log(${1:$TM_SELECTED_TEXT});</string>
+		<key>name</key>
+		<string>JS: log</string>
 	</dict>
 	<key>isDelta</key>
 	<true/>

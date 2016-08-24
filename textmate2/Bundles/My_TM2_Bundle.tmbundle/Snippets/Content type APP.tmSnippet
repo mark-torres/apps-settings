@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>header("Content-Type: application/${1|json,pdf,atom+xml|}");$0</string>
 	<key>name</key>
-	<string>Content type APP</string>
+	<string>PHP: Content type APP</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

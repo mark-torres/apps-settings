@@ -13,6 +13,8 @@ catch (${2:variable}) {
 }${4: finally {
 	${5:statements}
 \}}</string>
+		<key>isDeleted</key>
+		<true/>
 	</dict>
 	<key>isDelta</key>
 	<true/>

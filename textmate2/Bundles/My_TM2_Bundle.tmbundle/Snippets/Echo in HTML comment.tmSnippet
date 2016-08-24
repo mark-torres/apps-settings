@@ -8,7 +8,7 @@ ${1}
 echo "\n--&gt;\n";
 ${0}</string>
 	<key>name</key>
-	<string>Echo in HTML comment</string>
+	<string>PHP: Echo in HTML comment</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>isset(\$_POST['${1:varname}']) ? \$_POST['${1}'] : false ;</string>
+	<string>isset(\$_POST['${1:varname}']) ? \$_POST['${1}'] : '' ;</string>
 	<key>name</key>
-	<string>POST var</string>
+	<string>PHP: POST var</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

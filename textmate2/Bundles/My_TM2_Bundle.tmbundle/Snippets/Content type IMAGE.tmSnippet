@@ -6,7 +6,7 @@
 	<string>header("Content-Type: image/${1|jpeg,gif,png|}");$0
 </string>
 	<key>name</key>
-	<string>Content type IMAGE</string>
+	<string>PHP: Content type IMAGE</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

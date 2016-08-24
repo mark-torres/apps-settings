@@ -9,6 +9,8 @@
 {
 	${0:# code...}
 } // - - end of ${2} - - - - -</string>
+		<key>isDeleted</key>
+		<true/>
 	</dict>
 	<key>isDelta</key>
 	<true/>

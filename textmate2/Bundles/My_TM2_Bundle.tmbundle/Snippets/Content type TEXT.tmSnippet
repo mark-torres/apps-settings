@@ -6,7 +6,7 @@
 	<string>header("Content-Type: text/${1|css,javascript,plain,xml,html|}");$0
 </string>
 	<key>name</key>
-	<string>Content type TEXT</string>
+	<string>PHP: Content type TEXT</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

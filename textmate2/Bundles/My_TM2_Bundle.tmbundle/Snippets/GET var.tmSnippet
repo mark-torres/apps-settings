@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>isset(\$_GET['${1:varname}']) ? \$_GET['${1}'] : false ;</string>
+	<string>isset(\$_GET['${1:varname}']) ? \$_GET['${1}'] : '' ;</string>
 	<key>name</key>
-	<string>GET var</string>
+	<string>PHP: GET var</string>
 	<key>scope</key>
 	<string>source.php</string>
 	<key>tabTrigger</key>

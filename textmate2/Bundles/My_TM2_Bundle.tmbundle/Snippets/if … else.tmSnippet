@@ -11,6 +11,8 @@
 else {
 	$3
 }</string>
+		<key>isDeleted</key>
+		<true/>
 	</dict>
 	<key>isDelta</key>
 	<true/>
