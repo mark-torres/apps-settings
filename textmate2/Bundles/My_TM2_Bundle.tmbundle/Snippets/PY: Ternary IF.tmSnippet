@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1} if (${2:condition}) else ${3}</string>
+	<key>name</key>
+	<string>PY: Ternary IF</string>
+	<key>scope</key>
+	<string>source.python</string>
+	<key>tabTrigger</key>
+	<string>iftern</string>
+	<key>uuid</key>
+	<string>525176B2-84DB-496B-9690-541E2637D611</string>
+</dict>
+</plist>

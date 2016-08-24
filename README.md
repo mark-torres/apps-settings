@@ -1,17 +1,20 @@
 # apps-settings
+
 Some custom settings for apps I like
 
 ## TextMate2
 
 ### Bundles & Snippets
 
-Custom bundles & snippets folder:
+To use in TextMate2, double click on the bundle package or create a symlink:
 
-	~/Library/Application Support/Avian/Bundles
+~~~
+cd ~/Library/Application\ Support/Avian/Bundles
+ln -s ~/Git/apps-settings/textmate2/Bundles/VEA_functions.tmbundle/
+~~~
 
-Bundles:
+NOTE: The directory `~/Git/apps-settings` must be set to wherever you clone this repo.
 
-- HTML
-- PHP
-- Javascript
-- My own.- Includes some snippets for the ones above.
+## Atom
+
+Coming soon
